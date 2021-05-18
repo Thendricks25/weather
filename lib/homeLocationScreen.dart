@@ -436,11 +436,6 @@ class _HomeScreenState extends State<HomeScreen> {
                       padding: const EdgeInsets.only(left: 28.0),
                       child: Column(
                         children: [
-                          BoxedIcon(
-                            WeatherIcons.day_sunny,
-                            size: 40,
-                            color: Colors.yellow.shade600,
-                          ),
                           Padding(
                             padding: const EdgeInsets.only(bottom: 8.0),
                             child: Text(
@@ -490,11 +485,6 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                     Column(
                       children: [
-                        BoxedIcon(
-                          WeatherIcons.day_sunny,
-                          size: 40,
-                          color: Colors.yellow.shade600,
-                        ),
                         Padding(
                           padding: const EdgeInsets.only(bottom: 8.0),
                           child: Text(
@@ -543,11 +533,6 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                     Column(
                       children: [
-                        BoxedIcon(
-                          WeatherIcons.day_sunny,
-                          size: 40,
-                          color: Colors.yellow.shade600,
-                        ),
                         Padding(
                           padding: const EdgeInsets.only(bottom: 8.0),
                           child: Text(
